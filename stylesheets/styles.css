@@ -190,7 +190,9 @@
   margin-right: 20px;
   text-align: left;
 }
-
+.slideText {
+  text-align: center;
+}
 body {
   overflow: hidden;
   font-size: 1.5rem;
